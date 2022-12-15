@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="opciones_foto_array">
+        <item>Tomar Foto</item>
+        <item>Cargar Foto</item>
+    </string-array>
+</resources>

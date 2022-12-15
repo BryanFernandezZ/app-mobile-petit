@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="services_array">
+        <item>Baño y Peluqueria</item>
+        <item>Chequeo General</item>
+        <item>Control de Vacunas</item>
+    </string-array>
+</resources>

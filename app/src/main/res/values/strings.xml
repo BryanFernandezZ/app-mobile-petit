@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Petit</string>
+
+    //Login
+    <string name="welcome_back">Bienvenid@ de vuelta</string>
+
+    <string name="entry_email">Correo Electrónico</string>
+    <string name="entry_password">Contraseña</string>
+
+    <string name="ingresar">Ingresar</string>
+    <string name="forgot_password">Olvide mi Contraseña</string>
+
+    <string name="sign_in">Iniciar Sesión</string>
+    <string name="sign_up">Registrarse</string>
+
+    /Registration
+
+    <string name="create_account">Crear una Cuenta</string>
+    <string name="continue_text">Continuar</string>
+    <string name="name">Nombres</string>
+    <string name="lastname">Apellido</string>
+    <string name="phone_number">Número de Teléfono</string>
+    <string name="dni_number">Documento Nacional de Identidad (DNI)</string>
+    <string name="confirm_password">Confirmar contraseña</string>
+    <string name="choose_profile_picture">Elige tu foto de perfil</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="acceder_con_text">Acceder con</string>
+
+
+    <string name="formuarlio_adopcion_title">Por favor, responde estas preguntas antes de solicitar una mascota</string>
+    <string name="formulario_pregunta_1">¿Actualmente se encuentra trabajando?</string>
+    <string name="formulario_pregunta_2">¿Cuál es su cargo actual?</string>
+    <string name="formulario_pregunta_3">¿Cuenta con tiempo para poder dedicarselo a una nueva mascota?</string>
+    <string name="si_text">Si</string>
+    <string name="no_text">No</string>
+
+
+    <string name="facebook_app_id">1171341076808601</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">2b484e0f88cc9a16ed2bd5045374fcb6</string>
+
+
+    //NUEVA API DE GOOGLE
+
+    <string name="server_client_id">AIzaSyCbkOmt5tzYGuNDSspRU_TRsQ32ONFESs4</string>
+    <string name="lets_finish_register">Informacion Importante</string>
+    <string name="mascota">Mascota</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_maps_perfil">MapsPerfilActivity</string>
+
+</resources>
