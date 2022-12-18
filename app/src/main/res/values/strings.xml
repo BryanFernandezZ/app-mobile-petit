@@ -36,15 +36,6 @@
     <string name="si_text">Si</string>
     <string name="no_text">No</string>
 
-
-    <string name="facebook_app_id">1171341076808601</string>
-    <string name="fb_login_protocol_scheme">fb1234</string>
-    <string name="facebook_client_token">2b484e0f88cc9a16ed2bd5045374fcb6</string>
-
-
-    //NUEVA API DE GOOGLE
-
-    <string name="server_client_id">AIzaSyCbkOmt5tzYGuNDSspRU_TRsQ32ONFESs4</string>
     <string name="lets_finish_register">Informacion Importante</string>
     <string name="mascota">Mascota</string>
     <string name="title_activity_maps">MapsActivity</string>
