@@ -1,17 +1,15 @@
 package idat.damii.petit.common.values
 
-import android.content.res.Resources
-import idat.damii.petit.R
 import java.util.regex.Pattern
 
 class Constantes {
     companion object {
-        val API_URL: String = Resources.getSystem().getString(R.string.api_url)
+        const val API_URL: String = "http://192.168.18.119:8080/petit/"
 
         //Authorization
-        val serverClientId = Resources.getSystem().getString(R.string.server_client_Id)
-        val serverClientSecret = Resources.getSystem().getString(R.string.server_secret)
-        val payloadGrantType = Resources.getSystem().getString(R.string.payload_grant_type)
+        const val serverClientId = "oscar"
+        const val serverClientSecret = "12345"
+        const val payloadGrantType = "password"
 
         val EMAIL_PATTERN: Pattern = Pattern.compile("[A-Za-z0-9+_.-]+@[a-z]+.(com)")
         val PASSWORD_PATTERN: Pattern =
